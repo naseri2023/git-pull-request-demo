@@ -2,5 +2,5 @@ GitHub Pull Request Demo
 Version 1.0
 This change was added via a Pull Request.
 This is the second update for the Pull Request.
-Code review practice update
-Please check this change before merging.
+Code review practice: improve project documentation
+Please review the added documentation for clarity and completeness before merging.
